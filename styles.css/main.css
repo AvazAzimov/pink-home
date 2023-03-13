@@ -93,7 +93,7 @@ body {
     display: flex;
     width: 700px;
     height: 1080px;
-    background-image: url("./imges/pink.png");
+    background-image: url("../imges/pink.png");
     background-repeat: no-repeat;
     border-color: transparent;
     border: none;
